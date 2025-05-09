@@ -14,7 +14,8 @@ import java.util.logging.Logger;
  * @author e.talmitte
  */
 public class MySQLConnexion {
-
+    // Informations de connexion a la base de donnés
+    
     private static String url = "jdbc:mysql://172.28.37.49:3306/ap4";
     private static String user = "lcrane";
     private static String pass = "Btssio82300";
